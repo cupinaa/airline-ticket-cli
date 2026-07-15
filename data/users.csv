@@ -1,0 +1,4 @@
+role|username|password|phone|email|first_name|last_name|passport_number|nationality|gender
+customer|demo_customer|Customer1|000000001|customer@example.com|Demo|Customer|900000001|USA|female
+seller|demo_seller|Seller123|000000002|seller@example.com|Demo|Seller|||
+manager|demo_manager|Manager1|000000003|manager@example.com|Demo|Manager|||

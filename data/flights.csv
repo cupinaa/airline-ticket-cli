@@ -1,0 +1,24 @@
+flight_number|origin|destination|departure_time|arrival_time|crosses_midnight|airline|flight_days|aircraft_model|price
+JU12|BEG|FRA|07:21|09:21|no|Air Serbia|monday,wednesday,friday|A320|120
+JU72|FRA|DXB|10:23|12:21|no|Air France|monday,friday|A320|160
+JU34|BEG|CDG|10:15|12:45|no|Air Serbia|tuesday,thursday|A319|140
+LH45|FRA|BEG|14:30|16:40|no|Lufthansa|monday,tuesday,wednesday,thursday,friday|B737|160
+LH78|FRA|JFK|23:10|03:55|yes|Lufthansa|wednesday,saturday|A330|450
+AF22|CDG|BEG|06:50|09:10|no|Air France|monday,friday|A320|150
+AF89|CDG|LHR|18:40|19:30|no|Air France|tuesday,thursday|A220|90
+WB12|BEG|MIL|08:00|09:45|no|Wizz Air|monday,tuesday,wednesday,thursday,friday|A320|75
+WB45|MIL|BEG|21:30|23:15|no|Wizz Air|monday,friday|A320|80
+EK20|DXB|BEG|02:10|06:20|no|Emirates|tuesday,thursday,sunday|B777|520
+QR15|DOH|FRA|01:25|06:05|no|Qatar Airways|monday,wednesday,friday|A350|480
+SQ30|SIN|BKK|09:50|11:30|no|Singapore Airlines|monday,wednesday,friday|A350|200
+NH20|NRT|HND|07:15|08:00|no|ANA|tuesday,thursday|B787|180
+QF12|SYD|MEL|06:45|07:55|no|Qantas|monday,friday|A330|220
+EK40|DXB|JED|13:30|15:45|no|Emirates|monday,friday|B777|150
+AA10|JFK|MIA|08:20|11:10|no|American Airlines|monday,tuesday,wednesday|B737|130
+DL20|ATL|ORD|14:10|15:50|no|Delta Airlines|tuesday,thursday|A320|120
+AF33|CDG|LIS|09:00|10:40|no|Air France|monday,thursday|A319|140
+LH21|FRA|MAD|12:50|15:00|no|Lufthansa|wednesday,saturday|A320|160
+BA15|LHR|CPH|16:20|18:00|no|British Airways|tuesday,thursday|A320|180
+TK22|IST|DXB|21:30|00:05|yes|Turkish Airlines|monday,wednesday,friday|A321|200
+ZG30|BEG|IST|20:16|00:00|yes|Turkish Airlines|tuesday,wednesday|A319|200
+OP21|SIN|DXB|02:54|10:57|no|Turkish Airlines|monday,wednesday,saturday|A330|420

@@ -1,0 +1,10 @@
+aircraft_model|row_count|seat_letters
+A220|25|A,B,C,D,E
+A350|48|A,B,C,D,E,F,G,H,J
+B787|42|A,B,C,D,E,F,G,H
+A330|45|A,B,C,D,E,F,G,H
+B777|50|A,B,C,D,E,F,G,H,J
+B737|29|A,B,C,D,E,F
+A319|28|A,B,C,D,E,F
+A320|30|A,B,C,D,E,F
+A321|35|A,B,C,D,E,F

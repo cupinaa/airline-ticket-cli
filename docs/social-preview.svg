@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title description">
+  <title id="title">Airline Ticket CLI</title>
+  <desc id="description">Social preview for a Python command-line airline reservation project.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071b33"/>
+      <stop offset="1" stop-color="#123f66"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55d6be"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" rx="32" fill="url(#background)"/>
+  <circle cx="1100" cy="100" r="250" fill="#1e5f8c" opacity="0.28"/>
+  <circle cx="160" cy="620" r="260" fill="#0d9488" opacity="0.16"/>
+  <path d="M925 218l177-53-64 70 89 27-18 20-105-7-69 73-27-7 37-87-73-15 13-17z" fill="url(#accent)"/>
+  <rect x="88" y="82" width="150" height="40" rx="20" fill="#0f766e"/>
+  <text x="163" y="109" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ecfeff">PYTHON CLI</text>
+  <text x="88" y="246" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#f8fafc">Airline Ticket CLI</text>
+  <text x="92" y="306" font-family="Arial, sans-serif" font-size="29" fill="#bfdbfe">Flights, tickets, check-in, seating, and reports</text>
+  <rect x="90" y="374" width="690" height="154" rx="18" fill="#051426" stroke="#24577d" stroke-width="2"/>
+  <circle cx="125" cy="406" r="7" fill="#55d6be"/>
+  <circle cx="149" cy="406" r="7" fill="#7dd3fc"/>
+  <circle cx="173" cy="406" r="7" fill="#fbbf24"/>
+  <text x="122" y="458" font-family="Consolas, monospace" font-size="25" fill="#55d6be">$ python main.py</text>
+  <text x="122" y="500" font-family="Consolas, monospace" font-size="22" fill="#cbd5e1">Role-based workflows · CSV persistence · unittest</text>
+</svg>

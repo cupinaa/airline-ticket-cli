@@ -1,0 +1,3 @@
+ticket_number|scheduled_flight_id|first_name|last_name|phone|email|seat|deleted|sale_date|seller
+1000|1024|Demo|Customer|000000001|customer@example.com|1A|0|2026-07-01|online
+1001|1025|Guest|Passenger|000000002|guest@example.com|2B|0|2026-07-02|demo_seller

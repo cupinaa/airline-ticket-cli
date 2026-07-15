@@ -1,0 +1,10 @@
+"""In-memory application state loaded from the CSV data store."""
+scheduled_flights: list[list[str]] = []
+flights: list[list[str]] = []
+users: list[list[str]] = []
+guest_passengers: list[list[str]] = []
+aircraft_models: list[list[str]] = []
+airports: list[list[str]] = []
+seat_inventory: list[list[str]] = []
+tickets: list[list[str]] = []
+current_user: list[list[str]] = []

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "airline-ticket-cli"
+version = "0.1.0"
+description = "CLI application for airline flight and ticket management"
+requires-python = ">=3.10"
+
+[project.scripts]
+airline-tickets = "airline.cli:main"
+
+[tool.setuptools]
+packages = ["airline"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
